@@ -12,7 +12,7 @@
 #### 제 이름은 노지현이고 백엔드를 공부하고 있습니다. 
 #### 언어는 JAVA을 사용하며, Spring과 Spring Boot를 공부하고 있습니다!  
 
-<br><br><br>
+<br><br>
 
 ### 📫 Skills
 <br>
