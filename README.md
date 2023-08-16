@@ -8,7 +8,9 @@
   <a href="https://www.google.com" target="_blank"><img src="https://img.shields.io/badge/jihyeon4956@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </div>
 
-### Hi there 👋
+### 안녕하세요 👋
+#### 제 이름은 노지현이고 백엔드를 공부하고 있습니다. 
+#### 언어는 JAVA을 사용하며, Spring과 Spring Boot를 공부하고 있습니다!  
 
 <br><br><br>
 
