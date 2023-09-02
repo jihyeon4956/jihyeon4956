@@ -2,6 +2,7 @@
 
 
 
+<-- 이모티콘 사이트 https://simpleicons.org/ -->
 
 <div class="contect">
   <a href="https://velog.io/@yes_jihyeon" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat&logo=vectorlogozone&logoColor=white"/></a>
@@ -17,11 +18,20 @@
 ### 📫 Skills
 <br>
 <div class="Skills">
+<!--   <a target="_blank"><img src="https://img.shields.io/badge/보여질 이름-색상?style=flat&logo=로고이름&logoColor=white"/></a> -->
+  
   <a target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JAVA&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/></a>
+  <!--   <a target="_blank"><img src="https://img.shields.io/badge/보여질 이름-색상?style=flat&logo=로고이름&logoColor=white"/></a> -->
 
-<!-- <a target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a> -->
+<!-- <a target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a> 
+<a target="_blank"><img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/></a> -->
 </div>
 
  
