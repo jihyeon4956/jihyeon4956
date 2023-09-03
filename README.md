@@ -2,7 +2,7 @@
 
 
 
-<-- 이모티콘 사이트 https://simpleicons.org/ -->
+<!-- 이모티콘 사이트 https://simpleicons.org/ -->
 
 <div class="contect">
   <a href="https://velog.io/@yes_jihyeon" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat&logo=vectorlogozone&logoColor=white"/></a>
