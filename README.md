@@ -8,12 +8,12 @@
   <a href="https://velog.io/@yes_jihyeon" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat&logo=vectorlogozone&logoColor=white"/></a>
   <a href="https://www.google.com" target="_blank"><img src="https://img.shields.io/badge/jihyeon4956@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </div>
-
+<!--
 ### 안녕하세요 👋
 #### 저는 백엔드 개발자를 희망하는 노지현입니다. 
 #### 언어는 JAVA을 사용하고, Spring과 Spring Boot를 공부하여 프로젝트를 구현하고 있습니다.
 #### 최근에는 Test Code와 Docker에 관심이 있어서 공부중입니다.
-
+ -->
 <br><br>
 
 ### 📫 Skills
